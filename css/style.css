@@ -36,6 +36,11 @@
             color: #FFF;
         }
 /*MAIN*/
+.wrapper{
+    width: 100%;
+    padding-left: 50px;
+    padding-top: 50px;
+}
         /*FIRST SECTION*/
             #firstSection{
                 background-color: #000;

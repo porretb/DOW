@@ -1,4 +1,4 @@
-<div id="firstSection">
+<div id="firstSection" class="wrapper">
     <h1>Hello World</h1>
     <p>Bonjour à toutes et tous et bienvenu sur notre site de création de website</p>
 </div>
